@@ -35,6 +35,7 @@ public class ExampleMod
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
+        System.out.println("asdfas");
     }
 
     private void setup(final FMLCommonSetupEvent event)
