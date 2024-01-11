@@ -1,0 +1,12 @@
+*.ipr
+*.iml
+*.iws
+build/
+out/
+run/
+.gradle/
+.idea/
+/logs/
+
+# Files from Forge MDK
+forge*changelog.txt
